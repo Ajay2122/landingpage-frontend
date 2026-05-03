@@ -6,6 +6,11 @@ You are given a **React + Tailwind CSS landing page project**.
 
 Your task is to improve the UI, build a new section, and add one interactive feature while maintaining production-level quality.
 
+**This is design:**
+```
+https://github.com/accurasofthire/landingpage-frontend/blob/main/why_choose_us.png
+```
+
 This test evaluates:
 - React skills
 - Tailwind CSS ability
